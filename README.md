@@ -50,3 +50,4 @@ git fetch > fetches new commit information down from te remote server for the cu
 man git-fetch > documentation
 man git-remote > documentation
 
+Be sure to have your SSH key set up
